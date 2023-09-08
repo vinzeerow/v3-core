@@ -1,11 +1,11 @@
 {
-  "name": "@uniswap/v3-core",
+  "name": "@phuphamdeltalabs/v3-core",
   "description": "🦄 Core smart contracts of Uniswap V3",
   "license": "BUSL-1.1",
   "publishConfig": {
     "access": "public"
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://uniswap.org",
   "keywords": [
     "uniswap",
